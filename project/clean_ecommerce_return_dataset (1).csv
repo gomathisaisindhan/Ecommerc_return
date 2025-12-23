@@ -1,0 +1,601 @@
+order_id,order_date,customer_id,product_id,category,subcategory,supplier,city,locality,marketing_channel,price,discount_percent,order_quantity,delivery_days,return_status,return_reason
+1,18-11-2024 00:00,1988,6122,Fashion,Kids,Supplier_A,Bangalore,Koramangala,Instagram,15577,19,3,7,0,No reason provided
+2,23-04-2024 00:00,1638,5047,Beauty,Makeup,Supplier_A,Bangalore,Indiranagar,Facebook,5864,46,1,4,0,No reason provided
+3,06-04-2024 00:00,1208,6092,Home,Decor,Supplier_C,Delhi,Saket,Affiliate,8185,3,3,5,0,No reason provided
+4,25-03-2024 00:00,1559,5504,Home,Decor,Supplier_D,Hyderabad,Madhapur,Instagram,17743,41,1,5,0,No reason provided
+5,01-08-2024 00:00,1630,5862,Electronics,Accessories,Supplier_B,Chennai,T. Nagar,Google Ads,2538,33,1,9,0,No reason provided
+6,21-11-2024 00:00,1576,5843,Electronics,Accessories,Supplier_D,Chennai,Anna Nagar,Affiliate,1642,10,3,3,0,No reason provided
+7,10-09-2024 00:00,1158,6204,Home,Furniture,Supplier_B,Pune,Kothrud,Facebook,17973,26,1,7,0,No reason provided
+8,01-09-2024 00:00,1359,6995,Beauty,Skin,Supplier_D,Mumbai,Bandra,Email,17534,7,2,6,0,No reason provided
+9,08-11-2024 00:00,1305,6804,Electronics,Laptops,Supplier_A,Pune,Baner,Affiliate,4826,17,2,4,0,No reason provided
+10,21-08-2024 00:00,1304,6080,Home,Decor,Supplier_D,Mumbai,Dadar,Facebook,8734,3,2,8,0,No reason provided
+11,04-01-2024 00:00,1907,6283,Beauty,Hair,Supplier_D,Mumbai,Dadar,Google Ads,9638,6,2,8,0,No reason provided
+12,17-07-2024 00:00,1140,5438,Fashion,Men,Supplier_A,Hyderabad,Madhapur,Facebook,2787,38,2,4,0,No reason provided
+13,12-07-2024 00:00,1815,5493,Electronics,Accessories,Supplier_A,Hyderabad,Kukatpally,Instagram,12504,5,1,7,1,Wrong item
+14,11-11-2024 00:00,1296,6433,Home,Furniture,Supplier_D,Hyderabad,Kukatpally,Facebook,11765,49,1,4,0,No reason provided
+15,20-11-2024 00:00,1926,6927,Home,Furniture,Supplier_B,Delhi,Saket,Email,12325,38,1,2,0,No reason provided
+16,19-11-2024 00:00,1812,5819,Home,Kitchen,Supplier_A,Pune,Baner,Google Ads,12111,38,1,7,0,No reason provided
+17,30-12-2024 00:00,1319,5340,Beauty,Makeup,Supplier_B,Hyderabad,Kukatpally,Affiliate,19112,40,1,5,0,No reason provided
+18,28-02-2024 00:00,1493,5077,Electronics,Mobiles,Supplier_D,Hyderabad,Kukatpally,Google Ads,15766,6,2,7,0,No reason provided
+19,17-03-2024 00:00,1460,6689,Sports,Gym,Supplier_B,Delhi,Rohini,Email,18098,49,2,2,0,No reason provided
+20,25-07-2024 00:00,1440,5471,Electronics,Laptops,Supplier_D,Delhi,Saket,Instagram,4871,33,2,9,0,No reason provided
+21,16-07-2024 00:00,1609,5562,Home,Decor,Supplier_C,Pune,Baner,Email,13642,18,3,4,0,No reason provided
+22,23-06-2024 00:00,1950,5503,Beauty,Skin,Supplier_A,Chennai,Anna Nagar,Affiliate,4369,17,3,4,0,No reason provided
+23,02-04-2024 00:00,1459,6930,Beauty,Makeup,Supplier_C,Hyderabad,Gachibowli,Instagram,19531,45,3,8,0,No reason provided
+24,20-04-2024 00:00,1507,5259,Electronics,Laptops,Supplier_A,Hyderabad,Madhapur,Affiliate,5931,14,2,7,1,Wrong item
+25,09-12-2024 00:00,1612,5900,Fashion,Kids,Supplier_C,Pune,Hadapsar,Facebook,4621,48,1,3,0,No reason provided
+26,10-03-2024 00:00,1636,6417,Electronics,Laptops,Supplier_D,Hyderabad,Madhapur,Instagram,11715,28,3,5,0,No reason provided
+27,16-09-2024 00:00,1791,5731,Beauty,Skin,Supplier_C,Hyderabad,Madhapur,Affiliate,19949,49,2,2,0,No reason provided
+28,28-10-2024 00:00,1010,6160,Sports,Gym,Supplier_A,Mumbai,Powai,Facebook,17341,32,2,4,0,No reason provided
+29,17-11-2024 00:00,1519,5454,Beauty,Hair,Supplier_A,Chennai,Velachery,Instagram,18475,33,3,7,0,No reason provided
+30,17-06-2024 00:00,1489,6348,Sports,Gear,Supplier_C,Bangalore,Indiranagar,Email,9136,21,2,3,0,No reason provided
+31,02-04-2024 00:00,1995,5339,Sports,Gym,Supplier_D,Pune,Hadapsar,Facebook,11439,44,2,9,0,No reason provided
+32,04-09-2024 00:00,1014,6998,Fashion,Kids,Supplier_C,Mumbai,Bandra,Facebook,3078,28,2,1,0,No reason provided
+33,01-06-2024 00:00,1126,5143,Fashion,Women,Supplier_B,Hyderabad,Madhapur,Email,8313,16,3,5,0,No reason provided
+34,06-08-2024 00:00,1885,5516,Sports,Outdoor,Supplier_C,Chennai,Tambaram,Facebook,12637,32,2,3,0,No reason provided
+35,13-04-2024 00:00,1858,5359,Beauty,Makeup,Supplier_B,Mumbai,Dadar,Email,1794,38,2,9,0,No reason provided
+36,22-06-2024 00:00,1790,6534,Electronics,Laptops,Supplier_B,Mumbai,Andheri,Instagram,12541,25,3,1,0,No reason provided
+37,24-03-2024 00:00,1350,5583,Electronics,Accessories,Supplier_A,Pune,Kothrud,Email,6171,14,2,4,0,No reason provided
+38,13-05-2024 00:00,1361,6105,Sports,Outdoor,Supplier_D,Pune,Baner,Facebook,11029,25,2,6,0,No reason provided
+39,22-03-2024 00:00,1405,6168,Home,Furniture,Supplier_C,Pune,Kothrud,Google Ads,3558,16,3,4,0,No reason provided
+40,08-02-2024 00:00,1354,6543,Fashion,Women,Supplier_B,Mumbai,Powai,Google Ads,6509,14,2,1,1,Damaged
+41,07-02-2024 00:00,1943,6086,Beauty,Makeup,Supplier_D,Hyderabad,Gachibowli,Email,7429,41,2,6,0,No reason provided
+42,07-01-2024 00:00,1868,6607,Beauty,Makeup,Supplier_D,Mumbai,Bandra,Instagram,18873,14,3,1,0,No reason provided
+43,16-09-2024 00:00,1128,6128,Electronics,Mobiles,Supplier_A,Pune,Hadapsar,Facebook,1862,13,3,6,0,No reason provided
+44,05-12-2024 00:00,1770,6517,Fashion,Kids,Supplier_C,Bangalore,Whitefield,Instagram,9640,14,3,1,0,No reason provided
+45,15-10-2024 00:00,1414,5771,Electronics,Mobiles,Supplier_A,Delhi,Saket,Affiliate,18343,41,1,6,0,No reason provided
+46,06-12-2024 00:00,1799,5070,Fashion,Men,Supplier_C,Chennai,Velachery,Email,19845,24,2,1,0,No reason provided
+47,15-05-2024 00:00,1293,6427,Fashion,Men,Supplier_C,Chennai,T. Nagar,Affiliate,5176,36,1,5,0,No reason provided
+48,30-07-2024 00:00,1837,5113,Fashion,Men,Supplier_C,Hyderabad,Banjara Hills,Email,2646,0,2,2,0,No reason provided
+49,29-01-2024 00:00,1008,5808,Fashion,Men,Supplier_B,Bangalore,Koramangala,Instagram,3292,31,3,8,0,No reason provided
+50,05-05-2024 00:00,1716,6922,Beauty,Hair,Supplier_D,Bangalore,Koramangala,Facebook,7591,32,1,6,0,No reason provided
+51,10-07-2024 00:00,1197,6458,Electronics,Accessories,Supplier_C,Chennai,Tambaram,Affiliate,9866,26,2,4,1,Damaged
+52,28-06-2024 00:00,1790,6326,Sports,Outdoor,Supplier_C,Pune,Hinjewadi,Google Ads,16315,49,2,9,0,No reason provided
+53,21-08-2024 00:00,1347,6258,Fashion,Kids,Supplier_A,Delhi,Rohini,Email,4791,7,2,5,0,No reason provided
+54,09-10-2024 00:00,1750,6915,Electronics,Laptops,Supplier_A,Bangalore,Hebbal,Instagram,16133,39,1,8,0,No reason provided
+55,27-07-2024 00:00,1258,5823,Home,Furniture,Supplier_A,Pune,Baner,Email,16764,3,1,8,1,Late delivery
+56,25-01-2024 00:00,1038,6743,Electronics,Mobiles,Supplier_D,Mumbai,Andheri,Affiliate,10770,24,1,6,0,No reason provided
+57,21-04-2024 00:00,1980,5179,Fashion,Kids,Supplier_A,Delhi,Dwarka,Facebook,2683,9,2,9,0,No reason provided
+58,31-01-2024 00:00,1788,6047,Sports,Gear,Supplier_A,Mumbai,Andheri,Instagram,19162,47,1,9,1,Wrong item
+59,02-06-2024 00:00,1126,5518,Beauty,Skin,Supplier_C,Bangalore,Koramangala,Google Ads,18607,47,1,8,0,No reason provided
+60,12-03-2024 00:00,1174,6963,Fashion,Kids,Supplier_C,Pune,Kothrud,Email,391,29,3,7,0,No reason provided
+61,19-02-2024 00:00,1545,5765,Electronics,Mobiles,Supplier_C,Bangalore,Indiranagar,Facebook,12207,34,1,8,0,No reason provided
+62,10-09-2024 00:00,1655,6258,Beauty,Skin,Supplier_C,Bangalore,Koramangala,Affiliate,15093,4,1,8,0,No reason provided
+63,20-07-2024 00:00,1142,5916,Electronics,Laptops,Supplier_C,Chennai,Velachery,Facebook,16285,8,2,6,0,No reason provided
+64,05-10-2024 00:00,1288,6454,Home,Kitchen,Supplier_C,Mumbai,Andheri,Instagram,1318,20,3,5,1,Size issue
+65,28-06-2024 00:00,1447,6677,Electronics,Mobiles,Supplier_C,Bangalore,Koramangala,Instagram,10870,6,3,6,0,No reason provided
+66,09-07-2024 00:00,1284,6427,Home,Decor,Supplier_D,Bangalore,Koramangala,Google Ads,18186,26,1,9,0,No reason provided
+67,17-02-2024 00:00,1358,5808,Home,Kitchen,Supplier_A,Hyderabad,Kukatpally,Affiliate,9538,8,2,7,1,Not as described
+68,11-07-2024 00:00,1660,6439,Electronics,Accessories,Supplier_D,Delhi,Saket,Email,10804,25,1,9,1,Size issue
+69,07-01-2024 00:00,1127,6030,Beauty,Skin,Supplier_B,Delhi,Rohini,Google Ads,10048,36,1,1,0,No reason provided
+70,27-07-2024 00:00,1871,6819,Sports,Outdoor,Supplier_D,Pune,Hinjewadi,Affiliate,16373,21,1,8,0,No reason provided
+71,12-06-2024 00:00,1414,6861,Sports,Gear,Supplier_A,Bangalore,Indiranagar,Facebook,1021,20,3,7,0,No reason provided
+72,10-09-2024 00:00,1535,5349,Electronics,Mobiles,Supplier_B,Chennai,T. Nagar,Facebook,529,4,3,7,0,No reason provided
+73,03-11-2024 00:00,1217,5506,Fashion,Kids,Supplier_D,Chennai,Velachery,Facebook,10265,35,2,4,0,No reason provided
+74,30-06-2024 00:00,1827,5844,Beauty,Skin,Supplier_B,Chennai,Tambaram,Email,5215,30,3,6,1,Wrong item
+75,10-07-2024 00:00,1929,6494,Beauty,Makeup,Supplier_A,Chennai,T. Nagar,Affiliate,13550,46,1,1,0,No reason provided
+76,20-01-2024 00:00,1622,5664,Home,Furniture,Supplier_B,Mumbai,Dadar,Affiliate,7501,29,1,8,1,Not as described
+77,19-08-2024 00:00,1770,5675,Beauty,Makeup,Supplier_B,Chennai,Velachery,Instagram,5384,18,2,9,1,Wrong item
+78,10-01-2024 00:00,1343,6497,Beauty,Makeup,Supplier_B,Delhi,Rohini,Facebook,11596,12,2,2,0,No reason provided
+79,20-08-2024 00:00,1879,5340,Beauty,Makeup,Supplier_B,Mumbai,Powai,Instagram,6095,45,2,7,1,Damaged
+80,04-10-2024 00:00,1812,5202,Home,Decor,Supplier_D,Pune,Kothrud,Instagram,19064,15,3,3,0,No reason provided
+81,04-09-2024 00:00,1869,5709,Fashion,Women,Supplier_A,Bangalore,Hebbal,Affiliate,16312,13,1,1,0,No reason provided
+82,19-04-2024 00:00,1430,6539,Home,Furniture,Supplier_C,Pune,Kothrud,Instagram,7839,1,2,9,0,No reason provided
+83,25-08-2024 00:00,1526,5165,Home,Decor,Supplier_B,Pune,Kothrud,Google Ads,9256,49,1,8,0,No reason provided
+84,11-04-2024 00:00,1363,5801,Fashion,Women,Supplier_D,Hyderabad,Kukatpally,Google Ads,17478,5,3,8,1,Wrong item
+85,23-04-2024 00:00,1148,5354,Fashion,Women,Supplier_C,Chennai,T. Nagar,Email,10340,34,2,1,0,No reason provided
+86,18-01-2024 00:00,1353,6053,Sports,Gear,Supplier_A,Mumbai,Bandra,Affiliate,222,47,3,4,0,No reason provided
+87,23-01-2024 00:00,1551,5575,Electronics,Mobiles,Supplier_C,Chennai,T. Nagar,Instagram,8463,13,3,2,0,No reason provided
+88,03-08-2024 00:00,1242,6891,Electronics,Laptops,Supplier_B,Chennai,T. Nagar,Email,6871,31,3,1,0,No reason provided
+89,07-10-2024 00:00,1014,6787,Home,Decor,Supplier_B,Pune,Kothrud,Facebook,270,35,2,9,1,Late delivery
+90,13-10-2024 00:00,1404,5059,Electronics,Mobiles,Supplier_A,Pune,Hinjewadi,Email,16535,13,1,6,0,No reason provided
+91,18-07-2024 00:00,1236,5536,Electronics,Laptops,Supplier_D,Mumbai,Andheri,Affiliate,12457,44,2,9,0,No reason provided
+92,18-11-2024 00:00,1139,5419,Electronics,Accessories,Supplier_D,Mumbai,Andheri,Instagram,10522,11,3,1,0,No reason provided
+93,09-02-2024 00:00,1277,5703,Home,Furniture,Supplier_D,Chennai,Anna Nagar,Instagram,12109,16,3,6,0,No reason provided
+94,20-03-2024 00:00,1195,6944,Fashion,Kids,Supplier_B,Chennai,Tambaram,Facebook,17640,0,3,1,0,No reason provided
+95,26-05-2024 00:00,1565,6393,Fashion,Kids,Supplier_C,Hyderabad,Madhapur,Email,4634,19,1,7,0,No reason provided
+96,30-07-2024 00:00,1974,5191,Home,Kitchen,Supplier_B,Pune,Baner,Email,15199,36,1,1,0,No reason provided
+97,02-07-2024 00:00,1862,5782,Beauty,Hair,Supplier_B,Mumbai,Dadar,Facebook,13320,48,3,5,0,No reason provided
+98,05-08-2024 00:00,1010,5955,Fashion,Kids,Supplier_B,Mumbai,Andheri,Facebook,4071,1,2,6,0,No reason provided
+99,24-02-2024 00:00,1442,5285,Electronics,Accessories,Supplier_A,Chennai,Anna Nagar,Email,14368,20,2,4,0,No reason provided
+100,15-06-2024 00:00,1802,5540,Sports,Gym,Supplier_A,Chennai,Anna Nagar,Google Ads,11829,29,3,5,0,No reason provided
+101,14-10-2024 00:00,1825,6357,Home,Furniture,Supplier_C,Bangalore,Indiranagar,Affiliate,13729,4,1,1,0,No reason provided
+102,25-09-2024 00:00,1467,6297,Fashion,Men,Supplier_C,Pune,Kothrud,Affiliate,3194,49,3,1,0,No reason provided
+103,24-01-2024 00:00,1987,5004,Electronics,Mobiles,Supplier_C,Bangalore,Indiranagar,Affiliate,4197,42,1,8,0,No reason provided
+104,15-08-2024 00:00,1419,5153,Electronics,Accessories,Supplier_B,Hyderabad,Madhapur,Email,18366,12,1,2,0,No reason provided
+105,25-10-2024 00:00,1570,5560,Home,Kitchen,Supplier_B,Chennai,T. Nagar,Google Ads,8275,35,2,1,1,Wrong item
+106,08-12-2024 00:00,1829,6960,Home,Kitchen,Supplier_C,Pune,Hadapsar,Google Ads,17044,27,3,5,0,No reason provided
+107,18-06-2024 00:00,1870,5016,Beauty,Makeup,Supplier_B,Delhi,Saket,Affiliate,17315,3,2,3,1,Damaged
+108,09-02-2024 00:00,1379,5812,Home,Decor,Supplier_C,Chennai,Anna Nagar,Affiliate,10253,23,2,5,0,No reason provided
+109,31-05-2024 00:00,1920,5144,Beauty,Skin,Supplier_A,Delhi,Karol Bagh,Email,2370,45,3,1,1,Late delivery
+110,12-07-2024 00:00,1545,6088,Fashion,Women,Supplier_A,Hyderabad,Gachibowli,Affiliate,18503,2,3,8,0,No reason provided
+111,09-04-2024 00:00,1742,6653,Beauty,Hair,Supplier_D,Delhi,Karol Bagh,Affiliate,18387,36,1,7,0,No reason provided
+112,31-03-2024 00:00,1344,6552,Electronics,Mobiles,Supplier_B,Chennai,Velachery,Affiliate,10302,26,1,1,1,Wrong item
+113,27-01-2024 00:00,1592,5636,Electronics,Accessories,Supplier_A,Delhi,Dwarka,Instagram,7405,15,1,1,0,No reason provided
+114,23-08-2024 00:00,1932,5743,Fashion,Kids,Supplier_A,Mumbai,Andheri,Google Ads,9146,44,3,6,0,No reason provided
+115,21-10-2024 00:00,1643,6968,Beauty,Hair,Supplier_B,Pune,Hinjewadi,Affiliate,1644,9,2,1,0,No reason provided
+116,23-01-2024 00:00,1112,6267,Fashion,Men,Supplier_B,Pune,Hadapsar,Facebook,2062,1,2,4,0,No reason provided
+117,24-06-2024 00:00,1728,5009,Electronics,Accessories,Supplier_D,Delhi,Rohini,Google Ads,17283,16,1,8,0,No reason provided
+118,24-09-2024 00:00,1418,6268,Electronics,Mobiles,Supplier_C,Hyderabad,Kukatpally,Email,14898,46,2,1,0,No reason provided
+119,18-10-2024 00:00,1482,5195,Home,Furniture,Supplier_D,Chennai,Anna Nagar,Google Ads,7374,18,3,9,0,No reason provided
+120,05-01-2024 00:00,1108,5176,Beauty,Skin,Supplier_A,Mumbai,Andheri,Email,10919,0,1,6,0,No reason provided
+121,19-05-2024 00:00,1017,6652,Beauty,Makeup,Supplier_D,Mumbai,Powai,Email,6841,4,3,2,0,No reason provided
+122,19-07-2024 00:00,1897,5337,Beauty,Hair,Supplier_B,Bangalore,Whitefield,Facebook,17279,34,1,9,0,No reason provided
+123,27-05-2024 00:00,1570,6731,Fashion,Women,Supplier_C,Chennai,Tambaram,Email,7228,31,3,2,0,No reason provided
+124,18-07-2024 00:00,1796,5455,Fashion,Men,Supplier_D,Hyderabad,Kukatpally,Instagram,18749,20,3,2,0,No reason provided
+125,24-06-2024 00:00,1160,6911,Home,Decor,Supplier_C,Delhi,Dwarka,Instagram,4398,39,3,9,0,No reason provided
+126,24-04-2024 00:00,1694,5251,Sports,Gym,Supplier_B,Mumbai,Bandra,Affiliate,1724,16,2,9,1,Damaged
+127,06-12-2024 00:00,1898,6444,Home,Furniture,Supplier_C,Pune,Hinjewadi,Instagram,4292,16,1,6,0,No reason provided
+128,11-07-2024 00:00,1201,6560,Electronics,Laptops,Supplier_D,Delhi,Saket,Affiliate,2775,37,2,4,0,No reason provided
+129,28-12-2024 00:00,1591,6393,Sports,Gym,Supplier_B,Delhi,Dwarka,Affiliate,3120,19,1,6,0,No reason provided
+130,15-04-2024 00:00,1317,6953,Fashion,Men,Supplier_B,Chennai,Tambaram,Affiliate,7980,41,1,5,0,No reason provided
+131,09-06-2024 00:00,1751,6631,Electronics,Accessories,Supplier_B,Pune,Baner,Email,17432,42,3,9,0,No reason provided
+132,21-03-2024 00:00,1623,6553,Fashion,Kids,Supplier_A,Chennai,Velachery,Instagram,4181,15,1,8,1,Damaged
+133,21-10-2024 00:00,1020,5572,Fashion,Kids,Supplier_B,Mumbai,Bandra,Facebook,6234,15,1,8,0,No reason provided
+134,19-07-2024 00:00,1913,5531,Sports,Outdoor,Supplier_C,Pune,Kothrud,Instagram,18859,44,3,2,0,No reason provided
+135,03-01-2024 00:00,1916,6494,Home,Furniture,Supplier_C,Chennai,Tambaram,Facebook,13304,21,1,2,0,No reason provided
+136,21-10-2024 00:00,1869,6309,Home,Kitchen,Supplier_C,Chennai,T. Nagar,Instagram,10087,26,2,7,1,Late delivery
+137,08-04-2024 00:00,1488,5305,Beauty,Makeup,Supplier_C,Pune,Hadapsar,Affiliate,3506,2,3,5,0,No reason provided
+138,17-05-2024 00:00,1685,6410,Sports,Gym,Supplier_B,Mumbai,Powai,Email,10617,38,2,4,0,No reason provided
+139,30-06-2024 00:00,1952,6752,Fashion,Women,Supplier_B,Pune,Hadapsar,Affiliate,7533,29,2,6,0,No reason provided
+140,27-02-2024 00:00,1083,5396,Sports,Gear,Supplier_D,Delhi,Saket,Google Ads,4988,33,2,6,0,No reason provided
+141,24-07-2024 00:00,1055,6791,Beauty,Hair,Supplier_B,Bangalore,Indiranagar,Instagram,18976,18,1,2,0,No reason provided
+142,28-08-2024 00:00,1331,6919,Electronics,Accessories,Supplier_C,Mumbai,Bandra,Facebook,16300,8,1,5,0,No reason provided
+143,08-03-2024 00:00,1471,6470,Electronics,Mobiles,Supplier_A,Hyderabad,Kukatpally,Google Ads,7812,2,3,6,0,No reason provided
+144,10-05-2024 00:00,1178,5002,Beauty,Skin,Supplier_C,Delhi,Dwarka,Affiliate,11327,8,2,1,0,No reason provided
+145,29-05-2024 00:00,1507,6784,Sports,Gym,Supplier_D,Bangalore,Indiranagar,Instagram,7816,18,2,5,1,Late delivery
+146,28-07-2024 00:00,1127,6004,Home,Decor,Supplier_B,Hyderabad,Madhapur,Affiliate,726,19,3,6,1,Not as described
+147,13-06-2024 00:00,1818,5584,Home,Furniture,Supplier_B,Hyderabad,Banjara Hills,Instagram,14241,19,3,7,0,No reason provided
+148,09-01-2024 00:00,1032,6749,Fashion,Kids,Supplier_C,Bangalore,Whitefield,Affiliate,8840,7,2,7,0,No reason provided
+149,03-03-2024 00:00,1998,6660,Fashion,Men,Supplier_A,Bangalore,Whitefield,Facebook,3624,8,1,1,0,No reason provided
+150,23-03-2024 00:00,1597,5264,Home,Furniture,Supplier_C,Chennai,T. Nagar,Email,13728,20,3,4,0,No reason provided
+151,06-01-2024 00:00,1400,6848,Home,Decor,Supplier_D,Bangalore,Whitefield,Facebook,4620,14,3,3,1,Damaged
+152,24-06-2024 00:00,1095,5839,Sports,Gym,Supplier_C,Hyderabad,Madhapur,Affiliate,2102,15,2,5,0,No reason provided
+153,28-03-2024 00:00,1858,5280,Electronics,Mobiles,Supplier_D,Delhi,Saket,Google Ads,14133,7,2,2,0,No reason provided
+154,08-10-2024 00:00,1867,6505,Beauty,Hair,Supplier_C,Bangalore,Whitefield,Email,9194,14,3,9,0,No reason provided
+155,16-04-2024 00:00,1887,6465,Beauty,Makeup,Supplier_B,Hyderabad,Banjara Hills,Facebook,15057,29,2,4,0,No reason provided
+156,04-08-2024 00:00,1330,5954,Electronics,Laptops,Supplier_B,Chennai,Velachery,Facebook,15295,46,3,9,1,Size issue
+157,25-02-2024 00:00,1460,6181,Sports,Gym,Supplier_C,Chennai,T. Nagar,Google Ads,9543,20,2,3,0,No reason provided
+158,20-05-2024 00:00,1797,5453,Fashion,Women,Supplier_D,Hyderabad,Kukatpally,Instagram,10194,3,2,6,1,Damaged
+159,09-03-2024 00:00,1286,6627,Beauty,Skin,Supplier_A,Pune,Hadapsar,Email,14026,34,1,5,0,No reason provided
+160,03-06-2024 00:00,1868,6163,Beauty,Skin,Supplier_A,Bangalore,Koramangala,Facebook,3102,21,3,7,0,No reason provided
+161,08-04-2024 00:00,1484,5555,Electronics,Accessories,Supplier_D,Pune,Hadapsar,Email,237,3,2,5,0,No reason provided
+162,08-01-2024 00:00,1728,5346,Electronics,Accessories,Supplier_C,Hyderabad,Kukatpally,Email,19218,16,2,3,0,No reason provided
+163,17-05-2024 00:00,1801,5121,Electronics,Accessories,Supplier_B,Mumbai,Andheri,Affiliate,7614,21,1,9,0,No reason provided
+164,29-09-2024 00:00,1362,6345,Home,Kitchen,Supplier_A,Mumbai,Andheri,Email,19740,47,2,4,0,No reason provided
+165,21-12-2024 00:00,1436,5474,Electronics,Laptops,Supplier_C,Hyderabad,Madhapur,Affiliate,482,41,3,6,0,No reason provided
+166,10-04-2024 00:00,1568,6048,Home,Furniture,Supplier_B,Mumbai,Powai,Google Ads,9590,44,1,6,0,No reason provided
+167,06-04-2024 00:00,1111,6232,Beauty,Makeup,Supplier_B,Mumbai,Andheri,Facebook,17729,32,1,2,0,No reason provided
+168,15-09-2024 00:00,1217,5727,Electronics,Accessories,Supplier_B,Hyderabad,Banjara Hills,Affiliate,9939,8,1,5,1,Late delivery
+169,21-06-2024 00:00,1650,6883,Home,Furniture,Supplier_D,Bangalore,Koramangala,Email,1725,21,3,5,0,No reason provided
+170,21-03-2024 00:00,1457,6998,Beauty,Makeup,Supplier_A,Hyderabad,Gachibowli,Affiliate,10040,43,1,4,0,No reason provided
+171,18-04-2024 00:00,1151,6677,Beauty,Makeup,Supplier_D,Hyderabad,Gachibowli,Instagram,4927,25,3,3,0,No reason provided
+172,06-01-2024 00:00,1051,5032,Electronics,Accessories,Supplier_B,Mumbai,Powai,Affiliate,17336,16,2,4,0,No reason provided
+173,18-08-2024 00:00,1240,6080,Fashion,Women,Supplier_C,Hyderabad,Banjara Hills,Google Ads,7702,48,1,1,1,Damaged
+174,15-12-2024 00:00,1435,5173,Fashion,Kids,Supplier_A,Pune,Kothrud,Facebook,3619,44,2,6,0,No reason provided
+175,30-11-2024 00:00,1171,5499,Sports,Gym,Supplier_C,Mumbai,Bandra,Facebook,13283,38,2,1,0,No reason provided
+176,06-03-2024 00:00,1651,6209,Home,Furniture,Supplier_B,Bangalore,Whitefield,Affiliate,3417,6,2,2,0,No reason provided
+177,17-03-2024 00:00,1323,5150,Beauty,Hair,Supplier_A,Delhi,Dwarka,Google Ads,16729,20,3,2,0,No reason provided
+178,20-09-2024 00:00,1899,5069,Home,Kitchen,Supplier_D,Pune,Kothrud,Affiliate,2271,49,1,4,0,No reason provided
+179,19-12-2024 00:00,1839,6209,Fashion,Women,Supplier_C,Mumbai,Bandra,Instagram,2409,46,1,7,1,Size issue
+180,20-12-2024 00:00,1883,6422,Home,Furniture,Supplier_D,Mumbai,Andheri,Facebook,6595,19,2,6,1,Not as described
+181,01-01-2024 00:00,1907,6594,Beauty,Skin,Supplier_B,Mumbai,Bandra,Google Ads,14146,38,3,4,0,No reason provided
+182,05-12-2024 00:00,1918,6776,Electronics,Accessories,Supplier_D,Mumbai,Bandra,Email,8650,15,3,2,0,No reason provided
+183,12-11-2024 00:00,1892,5651,Fashion,Kids,Supplier_C,Bangalore,Koramangala,Instagram,14883,24,3,5,0,No reason provided
+184,29-05-2024 00:00,1402,5523,Beauty,Makeup,Supplier_C,Hyderabad,Kukatpally,Google Ads,16275,47,2,7,0,No reason provided
+185,16-05-2024 00:00,1212,6552,Electronics,Laptops,Supplier_C,Bangalore,Koramangala,Email,14537,36,1,5,0,No reason provided
+186,29-08-2024 00:00,1249,6508,Home,Kitchen,Supplier_D,Bangalore,Koramangala,Instagram,16046,12,2,7,0,No reason provided
+187,06-12-2024 00:00,1201,5130,Home,Kitchen,Supplier_D,Chennai,Velachery,Instagram,12566,9,3,9,0,No reason provided
+188,30-07-2024 00:00,1157,6292,Sports,Gym,Supplier_B,Chennai,Tambaram,Email,9550,49,1,7,0,No reason provided
+189,03-06-2024 00:00,1880,5345,Electronics,Laptops,Supplier_D,Hyderabad,Gachibowli,Facebook,16922,13,3,4,0,No reason provided
+190,09-11-2024 00:00,1542,6670,Electronics,Accessories,Supplier_B,Mumbai,Dadar,Instagram,7464,8,2,4,0,No reason provided
+191,09-03-2024 00:00,1725,6889,Electronics,Mobiles,Supplier_D,Pune,Hadapsar,Instagram,1431,13,1,6,0,No reason provided
+192,30-08-2024 00:00,1612,5886,Home,Kitchen,Supplier_D,Bangalore,Whitefield,Instagram,10224,1,3,5,1,Wrong item
+193,09-09-2024 00:00,1210,6130,Sports,Gear,Supplier_C,Delhi,Saket,Email,18803,16,1,4,0,No reason provided
+194,13-06-2024 00:00,1797,5685,Home,Furniture,Supplier_C,Pune,Kothrud,Instagram,13157,28,2,5,0,No reason provided
+195,26-11-2024 00:00,1870,6389,Fashion,Women,Supplier_D,Pune,Kothrud,Google Ads,17516,20,1,7,0,No reason provided
+196,03-06-2024 00:00,1464,5855,Electronics,Laptops,Supplier_D,Mumbai,Powai,Google Ads,9834,18,2,3,0,No reason provided
+197,16-12-2024 00:00,1782,5302,Home,Decor,Supplier_A,Chennai,Anna Nagar,Facebook,13665,40,1,1,0,No reason provided
+198,22-07-2024 00:00,1341,5548,Fashion,Men,Supplier_D,Bangalore,Hebbal,Google Ads,12343,12,3,4,0,No reason provided
+199,01-10-2024 00:00,1896,6869,Electronics,Accessories,Supplier_B,Hyderabad,Banjara Hills,Google Ads,7497,4,1,7,0,No reason provided
+200,26-07-2024 00:00,1255,5696,Home,Kitchen,Supplier_D,Bangalore,Koramangala,Facebook,7327,45,1,2,0,No reason provided
+201,03-01-2024 00:00,1481,5522,Beauty,Skin,Supplier_D,Delhi,Saket,Email,6108,38,2,8,1,Late delivery
+202,24-02-2024 00:00,1291,6437,Electronics,Laptops,Supplier_C,Bangalore,Whitefield,Instagram,1539,26,3,1,0,No reason provided
+203,11-03-2024 00:00,1144,6276,Beauty,Skin,Supplier_B,Delhi,Karol Bagh,Instagram,7131,30,1,6,1,Wrong item
+204,25-10-2024 00:00,1467,6054,Home,Furniture,Supplier_B,Delhi,Dwarka,Instagram,2768,22,1,5,0,No reason provided
+205,10-10-2024 00:00,1621,5965,Sports,Gear,Supplier_D,Bangalore,Whitefield,Facebook,2948,19,3,2,0,No reason provided
+206,03-09-2024 00:00,1602,5034,Electronics,Laptops,Supplier_C,Bangalore,Hebbal,Email,1884,39,2,5,0,No reason provided
+207,25-06-2024 00:00,1923,6282,Home,Furniture,Supplier_D,Chennai,Velachery,Facebook,19460,49,2,6,0,No reason provided
+208,25-03-2024 00:00,1306,6113,Beauty,Skin,Supplier_A,Hyderabad,Gachibowli,Instagram,17610,45,2,2,0,No reason provided
+209,07-02-2024 00:00,1424,6393,Beauty,Skin,Supplier_A,Bangalore,Whitefield,Email,1560,20,2,5,1,Size issue
+210,29-02-2024 00:00,1178,6844,Home,Furniture,Supplier_D,Hyderabad,Banjara Hills,Google Ads,6570,33,3,8,0,No reason provided
+211,22-04-2024 00:00,1372,5277,Beauty,Skin,Supplier_B,Delhi,Dwarka,Email,3743,42,1,3,1,Wrong item
+212,26-02-2024 00:00,1414,6655,Beauty,Skin,Supplier_C,Mumbai,Andheri,Affiliate,10365,38,3,2,0,No reason provided
+213,11-07-2024 00:00,1533,5397,Electronics,Mobiles,Supplier_A,Bangalore,Indiranagar,Email,17365,49,2,3,0,No reason provided
+214,14-02-2024 00:00,1246,6866,Electronics,Accessories,Supplier_D,Chennai,Anna Nagar,Instagram,7586,28,3,2,0,No reason provided
+215,08-11-2024 00:00,1831,5599,Beauty,Hair,Supplier_A,Delhi,Saket,Affiliate,13250,23,1,2,0,No reason provided
+216,01-08-2024 00:00,1978,6601,Fashion,Women,Supplier_A,Pune,Hinjewadi,Facebook,1944,39,3,7,0,No reason provided
+217,14-03-2024 00:00,1298,6933,Home,Decor,Supplier_D,Pune,Hinjewadi,Affiliate,11541,25,3,9,0,No reason provided
+218,25-10-2024 00:00,1611,6529,Beauty,Makeup,Supplier_B,Bangalore,Indiranagar,Affiliate,9760,30,3,2,0,No reason provided
+219,17-09-2024 00:00,1850,6125,Sports,Gear,Supplier_C,Pune,Hadapsar,Email,7282,11,3,8,0,No reason provided
+220,23-07-2024 00:00,1461,5069,Electronics,Mobiles,Supplier_D,Chennai,Anna Nagar,Google Ads,7122,29,3,3,0,No reason provided
+221,07-01-2024 00:00,1131,6055,Sports,Gear,Supplier_C,Bangalore,Hebbal,Email,8147,24,3,2,0,No reason provided
+222,30-11-2024 00:00,1197,6200,Fashion,Kids,Supplier_A,Hyderabad,Banjara Hills,Email,834,32,1,5,0,No reason provided
+223,24-01-2024 00:00,1573,5296,Beauty,Skin,Supplier_A,Mumbai,Dadar,Instagram,14822,42,3,5,0,No reason provided
+224,17-09-2024 00:00,1655,5986,Electronics,Mobiles,Supplier_B,Hyderabad,Madhapur,Instagram,16165,5,2,7,0,No reason provided
+225,02-09-2024 00:00,1017,5296,Fashion,Men,Supplier_C,Hyderabad,Kukatpally,Affiliate,18933,14,3,6,1,Wrong item
+226,04-04-2024 00:00,1000,5069,Sports,Gym,Supplier_A,Bangalore,Hebbal,Google Ads,16613,2,2,3,0,No reason provided
+227,25-10-2024 00:00,1119,5278,Beauty,Skin,Supplier_C,Chennai,Tambaram,Affiliate,1151,26,1,1,0,No reason provided
+228,28-03-2024 00:00,1851,6128,Electronics,Laptops,Supplier_C,Mumbai,Powai,Instagram,13251,24,2,1,0,No reason provided
+229,17-10-2024 00:00,1047,5840,Fashion,Men,Supplier_D,Delhi,Saket,Affiliate,1572,16,2,7,1,Late delivery
+230,28-07-2024 00:00,1551,5801,Sports,Gear,Supplier_B,Pune,Kothrud,Facebook,15575,42,3,9,0,No reason provided
+231,19-07-2024 00:00,1250,5385,Fashion,Kids,Supplier_B,Chennai,Anna Nagar,Google Ads,14447,6,1,4,0,No reason provided
+232,09-04-2024 00:00,1094,5411,Electronics,Accessories,Supplier_B,Delhi,Saket,Affiliate,3435,8,3,7,0,No reason provided
+233,08-05-2024 00:00,1064,6608,Home,Decor,Supplier_B,Delhi,Saket,Google Ads,16098,30,3,3,0,No reason provided
+234,08-10-2024 00:00,1365,6649,Beauty,Skin,Supplier_D,Bangalore,Koramangala,Google Ads,7609,23,2,6,0,No reason provided
+235,22-03-2024 00:00,1156,5796,Fashion,Men,Supplier_C,Chennai,Tambaram,Facebook,381,46,2,6,0,No reason provided
+236,01-01-2024 00:00,1884,5764,Sports,Gear,Supplier_D,Hyderabad,Gachibowli,Google Ads,6006,27,2,6,0,No reason provided
+237,17-08-2024 00:00,1782,5747,Electronics,Accessories,Supplier_C,Chennai,Velachery,Instagram,16622,46,1,3,0,No reason provided
+238,11-11-2024 00:00,1314,6596,Home,Furniture,Supplier_A,Hyderabad,Madhapur,Affiliate,7801,28,2,3,1,Late delivery
+239,04-11-2024 00:00,1355,6861,Electronics,Laptops,Supplier_B,Bangalore,Hebbal,Facebook,14045,15,1,8,0,No reason provided
+240,27-12-2024 00:00,1298,5600,Fashion,Women,Supplier_D,Hyderabad,Kukatpally,Instagram,15114,33,1,3,0,No reason provided
+241,23-04-2024 00:00,1668,5398,Fashion,Kids,Supplier_B,Delhi,Rohini,Email,12773,12,2,6,0,No reason provided
+242,08-06-2024 00:00,1997,6408,Beauty,Hair,Supplier_D,Mumbai,Bandra,Email,3755,26,2,7,0,No reason provided
+243,24-09-2024 00:00,1312,5253,Electronics,Laptops,Supplier_D,Pune,Hadapsar,Facebook,18286,5,3,7,0,No reason provided
+244,16-09-2024 00:00,1451,6703,Beauty,Hair,Supplier_B,Delhi,Saket,Google Ads,8011,16,2,9,1,Size issue
+245,07-09-2024 00:00,1297,6597,Electronics,Mobiles,Supplier_B,Delhi,Dwarka,Affiliate,12845,37,1,4,0,No reason provided
+246,06-08-2024 00:00,1226,6139,Beauty,Makeup,Supplier_D,Bangalore,Indiranagar,Email,658,35,1,6,1,Late delivery
+247,01-04-2024 00:00,1772,6932,Electronics,Accessories,Supplier_B,Chennai,T. Nagar,Email,5132,17,1,2,0,No reason provided
+248,21-03-2024 00:00,1157,6470,Sports,Gym,Supplier_D,Pune,Baner,Facebook,4625,8,2,4,0,No reason provided
+249,01-09-2024 00:00,1126,5049,Beauty,Makeup,Supplier_B,Hyderabad,Gachibowli,Instagram,14989,37,1,4,1,Not as described
+250,22-07-2024 00:00,1739,6261,Sports,Gym,Supplier_A,Hyderabad,Banjara Hills,Google Ads,15142,2,1,4,0,No reason provided
+251,29-08-2024 00:00,1350,5349,Home,Decor,Supplier_C,Delhi,Saket,Facebook,4144,49,1,4,0,No reason provided
+252,06-07-2024 00:00,1338,6805,Fashion,Kids,Supplier_C,Delhi,Dwarka,Google Ads,16557,1,1,5,0,No reason provided
+253,25-08-2024 00:00,1047,5361,Electronics,Mobiles,Supplier_D,Chennai,Tambaram,Google Ads,5959,27,1,9,0,No reason provided
+254,21-10-2024 00:00,1574,5097,Beauty,Skin,Supplier_B,Chennai,Anna Nagar,Instagram,9070,44,3,5,1,Late delivery
+255,24-01-2024 00:00,1734,6301,Sports,Outdoor,Supplier_A,Chennai,Anna Nagar,Affiliate,19758,35,2,1,0,No reason provided
+256,16-09-2024 00:00,1118,5177,Sports,Gear,Supplier_A,Bangalore,Indiranagar,Instagram,1253,16,3,9,0,No reason provided
+257,24-06-2024 00:00,1413,5701,Electronics,Laptops,Supplier_D,Hyderabad,Gachibowli,Google Ads,15427,0,2,2,1,Late delivery
+258,23-03-2024 00:00,1840,6928,Fashion,Kids,Supplier_C,Pune,Hadapsar,Affiliate,7259,9,2,8,0,No reason provided
+259,18-01-2024 00:00,1968,5082,Electronics,Accessories,Supplier_D,Pune,Hadapsar,Google Ads,11368,42,1,9,0,No reason provided
+260,07-10-2024 00:00,1076,6819,Electronics,Laptops,Supplier_A,Mumbai,Andheri,Instagram,19854,3,1,1,0,No reason provided
+261,04-11-2024 00:00,1410,5433,Sports,Gym,Supplier_C,Hyderabad,Madhapur,Facebook,15135,36,3,3,0,No reason provided
+262,13-08-2024 00:00,1886,5481,Home,Kitchen,Supplier_D,Pune,Kothrud,Facebook,13525,24,2,4,0,No reason provided
+263,11-02-2024 00:00,1633,5273,Sports,Gym,Supplier_A,Hyderabad,Gachibowli,Email,8295,9,1,1,0,No reason provided
+264,03-05-2024 00:00,1822,6391,Home,Decor,Supplier_A,Pune,Hinjewadi,Facebook,16498,45,3,5,0,No reason provided
+265,10-04-2024 00:00,1478,6727,Sports,Gear,Supplier_A,Bangalore,Hebbal,Instagram,7888,41,2,8,0,No reason provided
+266,07-05-2024 00:00,1488,6844,Electronics,Mobiles,Supplier_D,Hyderabad,Kukatpally,Instagram,5725,9,3,5,0,No reason provided
+267,30-06-2024 00:00,1608,6252,Beauty,Hair,Supplier_D,Pune,Hinjewadi,Affiliate,2803,34,1,1,0,No reason provided
+268,02-01-2024 00:00,1151,6617,Fashion,Men,Supplier_C,Pune,Kothrud,Instagram,3537,31,3,2,0,No reason provided
+269,05-04-2024 00:00,1858,5461,Fashion,Men,Supplier_B,Hyderabad,Banjara Hills,Google Ads,5274,12,1,3,1,Damaged
+270,02-07-2024 00:00,1592,5877,Electronics,Mobiles,Supplier_C,Mumbai,Powai,Affiliate,4757,19,1,6,0,No reason provided
+271,30-03-2024 00:00,1120,5346,Beauty,Hair,Supplier_A,Hyderabad,Gachibowli,Google Ads,13458,25,3,6,0,No reason provided
+272,10-05-2024 00:00,1302,6663,Sports,Gear,Supplier_A,Hyderabad,Kukatpally,Google Ads,729,11,1,4,0,No reason provided
+273,08-12-2024 00:00,1718,6622,Sports,Gear,Supplier_C,Bangalore,Hebbal,Email,17916,2,3,9,0,No reason provided
+274,26-04-2024 00:00,1700,5903,Fashion,Kids,Supplier_A,Hyderabad,Banjara Hills,Affiliate,9886,16,3,7,0,No reason provided
+275,20-07-2024 00:00,1913,6722,Fashion,Kids,Supplier_C,Bangalore,Indiranagar,Facebook,7838,27,1,5,0,No reason provided
+276,04-11-2024 00:00,1678,6656,Sports,Gear,Supplier_A,Delhi,Karol Bagh,Instagram,17120,8,3,7,0,No reason provided
+277,09-01-2024 00:00,1886,6657,Electronics,Mobiles,Supplier_D,Mumbai,Andheri,Facebook,6342,27,2,6,0,No reason provided
+278,10-01-2024 00:00,1741,5867,Fashion,Kids,Supplier_B,Pune,Hinjewadi,Facebook,19632,32,3,5,0,No reason provided
+279,23-03-2024 00:00,1324,6393,Fashion,Men,Supplier_A,Chennai,Tambaram,Facebook,7382,25,3,8,0,No reason provided
+280,23-02-2024 00:00,1975,5366,Home,Kitchen,Supplier_B,Mumbai,Andheri,Facebook,7530,13,2,2,0,No reason provided
+281,23-11-2024 00:00,1857,5426,Electronics,Laptops,Supplier_B,Delhi,Saket,Email,16862,7,1,3,0,No reason provided
+282,16-02-2024 00:00,1346,5332,Fashion,Men,Supplier_B,Mumbai,Bandra,Affiliate,15321,4,2,5,0,No reason provided
+283,27-01-2024 00:00,1927,5376,Sports,Outdoor,Supplier_B,Mumbai,Andheri,Google Ads,7003,45,1,4,0,No reason provided
+284,22-11-2024 00:00,1143,5977,Beauty,Makeup,Supplier_D,Bangalore,Indiranagar,Affiliate,2280,27,2,7,0,No reason provided
+285,02-05-2024 00:00,1548,6706,Beauty,Hair,Supplier_B,Bangalore,Hebbal,Affiliate,13277,33,1,2,0,No reason provided
+286,14-10-2024 00:00,1892,6993,Beauty,Hair,Supplier_A,Hyderabad,Banjara Hills,Instagram,8525,19,3,5,0,No reason provided
+287,18-08-2024 00:00,1050,5749,Electronics,Laptops,Supplier_C,Chennai,Anna Nagar,Google Ads,18825,16,3,6,0,No reason provided
+288,22-06-2024 00:00,1207,6606,Fashion,Women,Supplier_A,Chennai,Velachery,Instagram,16850,35,3,8,1,Damaged
+289,09-10-2024 00:00,1813,5710,Fashion,Women,Supplier_A,Hyderabad,Madhapur,Instagram,19062,49,3,6,0,No reason provided
+290,11-07-2024 00:00,1002,6218,Sports,Gear,Supplier_B,Pune,Baner,Affiliate,17454,8,3,8,0,No reason provided
+291,15-04-2024 00:00,1606,6664,Beauty,Hair,Supplier_A,Bangalore,Indiranagar,Affiliate,14556,17,3,8,1,Size issue
+292,12-09-2024 00:00,1071,6028,Electronics,Laptops,Supplier_D,Mumbai,Andheri,Google Ads,19730,18,1,1,0,No reason provided
+293,16-03-2024 00:00,1224,6305,Electronics,Mobiles,Supplier_B,Bangalore,Whitefield,Instagram,8020,20,2,1,0,No reason provided
+294,26-06-2024 00:00,1991,5106,Home,Furniture,Supplier_C,Hyderabad,Banjara Hills,Facebook,6616,47,1,3,0,No reason provided
+295,13-06-2024 00:00,1639,6689,Sports,Gear,Supplier_B,Delhi,Saket,Instagram,9071,12,3,9,1,Late delivery
+296,03-03-2024 00:00,1031,6696,Sports,Gear,Supplier_A,Hyderabad,Banjara Hills,Facebook,6331,14,3,3,0,No reason provided
+297,29-10-2024 00:00,1339,6632,Fashion,Kids,Supplier_C,Mumbai,Andheri,Instagram,7001,38,2,3,0,No reason provided
+298,29-06-2024 00:00,1047,6786,Home,Decor,Supplier_B,Bangalore,Whitefield,Affiliate,3542,3,3,4,0,No reason provided
+299,17-04-2024 00:00,1920,5498,Fashion,Women,Supplier_C,Chennai,T. Nagar,Facebook,839,29,3,5,0,No reason provided
+300,06-01-2024 00:00,1607,6609,Sports,Gym,Supplier_C,Hyderabad,Kukatpally,Affiliate,5674,38,3,4,0,No reason provided
+301,16-06-2024 00:00,1949,5731,Electronics,Accessories,Supplier_B,Mumbai,Andheri,Email,6247,45,3,3,1,Size issue
+302,29-12-2024 00:00,1515,6966,Electronics,Accessories,Supplier_D,Chennai,Anna Nagar,Affiliate,7142,27,3,7,0,No reason provided
+303,09-08-2024 00:00,1062,5170,Beauty,Skin,Supplier_D,Chennai,Velachery,Email,18241,49,2,7,1,Not as described
+304,06-12-2024 00:00,1381,6336,Fashion,Kids,Supplier_A,Pune,Hadapsar,Affiliate,9444,30,2,7,0,No reason provided
+305,22-01-2024 00:00,1497,6658,Sports,Gym,Supplier_D,Chennai,Velachery,Email,1888,24,3,2,0,No reason provided
+306,11-06-2024 00:00,1174,5171,Electronics,Accessories,Supplier_B,Pune,Baner,Facebook,8658,38,3,6,0,No reason provided
+307,17-12-2024 00:00,1828,5056,Home,Furniture,Supplier_A,Delhi,Saket,Google Ads,3450,8,3,5,0,No reason provided
+308,14-04-2024 00:00,1522,5620,Fashion,Kids,Supplier_C,Bangalore,Koramangala,Facebook,8391,45,2,2,0,No reason provided
+309,31-08-2024 00:00,1938,6775,Home,Kitchen,Supplier_C,Bangalore,Indiranagar,Facebook,18250,13,1,9,0,No reason provided
+310,02-06-2024 00:00,1683,5164,Fashion,Kids,Supplier_D,Bangalore,Koramangala,Affiliate,16706,3,3,4,0,No reason provided
+311,05-11-2024 00:00,1354,5884,Electronics,Laptops,Supplier_D,Delhi,Karol Bagh,Email,13558,24,1,9,1,Wrong item
+312,25-06-2024 00:00,1201,5376,Sports,Gear,Supplier_C,Delhi,Saket,Facebook,11386,12,3,3,1,Wrong item
+313,22-08-2024 00:00,1625,6701,Beauty,Skin,Supplier_D,Chennai,Velachery,Email,14773,19,1,2,1,Size issue
+314,01-07-2024 00:00,1582,6585,Electronics,Accessories,Supplier_B,Bangalore,Indiranagar,Instagram,16066,1,1,4,0,No reason provided
+315,02-09-2024 00:00,1874,5264,Electronics,Mobiles,Supplier_D,Bangalore,Koramangala,Instagram,3746,10,1,5,0,No reason provided
+316,09-05-2024 00:00,1806,5474,Beauty,Makeup,Supplier_C,Delhi,Rohini,Email,6343,18,3,5,0,No reason provided
+317,26-09-2024 00:00,1884,5972,Fashion,Men,Supplier_C,Hyderabad,Gachibowli,Instagram,12109,29,2,8,0,No reason provided
+318,05-04-2024 00:00,1224,6567,Electronics,Laptops,Supplier_A,Bangalore,Indiranagar,Facebook,18363,11,2,7,0,No reason provided
+319,01-06-2024 00:00,1887,5214,Fashion,Kids,Supplier_C,Mumbai,Andheri,Google Ads,14757,17,3,4,0,No reason provided
+320,20-05-2024 00:00,1297,5642,Fashion,Men,Supplier_B,Hyderabad,Madhapur,Affiliate,7486,32,2,2,1,Not as described
+321,08-03-2024 00:00,1167,6382,Home,Furniture,Supplier_D,Bangalore,Koramangala,Google Ads,9764,29,3,2,0,No reason provided
+322,26-02-2024 00:00,1744,5038,Home,Furniture,Supplier_B,Chennai,Anna Nagar,Instagram,11954,37,2,9,0,No reason provided
+323,02-02-2024 00:00,1114,6918,Fashion,Women,Supplier_C,Delhi,Dwarka,Email,6964,17,3,9,1,Damaged
+324,26-11-2024 00:00,1196,6415,Beauty,Skin,Supplier_D,Pune,Baner,Affiliate,19880,40,1,9,1,Size issue
+325,04-09-2024 00:00,1840,6594,Sports,Gym,Supplier_D,Delhi,Rohini,Email,11061,25,3,7,0,No reason provided
+326,07-08-2024 00:00,1504,6751,Fashion,Women,Supplier_D,Chennai,Tambaram,Facebook,13896,24,2,5,0,No reason provided
+327,06-12-2024 00:00,1437,6468,Beauty,Hair,Supplier_B,Pune,Baner,Email,17335,45,1,7,0,No reason provided
+328,10-09-2024 00:00,1034,5200,Beauty,Skin,Supplier_A,Delhi,Dwarka,Instagram,3915,7,3,5,1,Not as described
+329,18-03-2024 00:00,1172,6345,Fashion,Kids,Supplier_A,Hyderabad,Madhapur,Email,12333,44,2,2,1,Late delivery
+330,09-07-2024 00:00,1523,5751,Fashion,Kids,Supplier_D,Bangalore,Whitefield,Affiliate,14309,19,1,6,0,No reason provided
+331,27-08-2024 00:00,1573,5548,Fashion,Kids,Supplier_D,Pune,Hadapsar,Email,2755,16,2,9,0,No reason provided
+332,19-01-2024 00:00,1716,6713,Electronics,Laptops,Supplier_A,Chennai,Tambaram,Affiliate,15070,43,3,7,0,No reason provided
+333,23-11-2024 00:00,1023,5765,Electronics,Accessories,Supplier_C,Mumbai,Dadar,Email,10193,23,3,1,1,Late delivery
+334,29-08-2024 00:00,1140,5539,Beauty,Skin,Supplier_A,Chennai,T. Nagar,Affiliate,5004,16,2,6,0,No reason provided
+335,28-09-2024 00:00,1820,5486,Beauty,Skin,Supplier_A,Delhi,Saket,Google Ads,9627,31,2,3,0,No reason provided
+336,13-06-2024 00:00,1506,5336,Electronics,Accessories,Supplier_A,Hyderabad,Banjara Hills,Email,11491,22,1,9,0,No reason provided
+337,13-12-2024 00:00,1482,6788,Electronics,Laptops,Supplier_D,Chennai,Tambaram,Google Ads,12556,47,2,5,0,No reason provided
+338,17-04-2024 00:00,1630,6782,Fashion,Kids,Supplier_B,Chennai,Velachery,Google Ads,12536,33,3,3,0,No reason provided
+339,29-04-2024 00:00,1749,5959,Beauty,Hair,Supplier_A,Mumbai,Powai,Email,3976,36,1,6,0,No reason provided
+340,28-03-2024 00:00,1020,6728,Home,Furniture,Supplier_D,Chennai,Tambaram,Facebook,19227,15,2,6,0,No reason provided
+341,19-11-2024 00:00,1644,5362,Fashion,Women,Supplier_A,Pune,Baner,Google Ads,5414,17,1,2,0,No reason provided
+342,17-01-2024 00:00,1255,6712,Beauty,Hair,Supplier_D,Chennai,Anna Nagar,Google Ads,1400,35,1,5,0,No reason provided
+343,11-03-2024 00:00,1449,6857,Home,Furniture,Supplier_D,Bangalore,Koramangala,Google Ads,668,40,2,4,1,Size issue
+344,03-05-2024 00:00,1422,6540,Electronics,Accessories,Supplier_B,Hyderabad,Madhapur,Facebook,8958,25,1,1,0,No reason provided
+345,06-10-2024 00:00,1081,6919,Fashion,Men,Supplier_B,Hyderabad,Gachibowli,Google Ads,17085,46,1,2,0,No reason provided
+346,30-03-2024 00:00,1580,5193,Beauty,Hair,Supplier_B,Pune,Hinjewadi,Email,16329,40,3,7,0,No reason provided
+347,27-03-2024 00:00,1602,6356,Sports,Outdoor,Supplier_D,Hyderabad,Gachibowli,Email,12481,26,2,2,0,No reason provided
+348,06-11-2024 00:00,1661,5348,Home,Kitchen,Supplier_A,Chennai,Velachery,Google Ads,12724,14,2,1,1,Wrong item
+349,10-05-2024 00:00,1299,6808,Beauty,Skin,Supplier_A,Bangalore,Koramangala,Affiliate,11383,34,1,1,0,No reason provided
+350,12-08-2024 00:00,1828,5470,Sports,Gear,Supplier_D,Pune,Hadapsar,Google Ads,12542,27,1,9,0,No reason provided
+351,12-10-2024 00:00,1017,5431,Beauty,Skin,Supplier_A,Pune,Baner,Affiliate,17817,46,1,1,0,No reason provided
+352,01-04-2024 00:00,1800,6188,Fashion,Men,Supplier_C,Delhi,Karol Bagh,Facebook,6462,48,3,4,0,No reason provided
+353,20-03-2024 00:00,1560,5904,Beauty,Skin,Supplier_A,Pune,Hinjewadi,Email,9328,40,3,2,1,Size issue
+354,24-06-2024 00:00,1190,6845,Sports,Gear,Supplier_A,Delhi,Saket,Affiliate,1145,36,3,9,0,No reason provided
+355,04-04-2024 00:00,1807,6833,Fashion,Women,Supplier_A,Chennai,Tambaram,Affiliate,13180,44,3,1,0,No reason provided
+356,28-07-2024 00:00,1328,6453,Beauty,Skin,Supplier_C,Chennai,Tambaram,Google Ads,17540,35,3,7,0,No reason provided
+357,19-07-2024 00:00,1780,5140,Beauty,Skin,Supplier_C,Pune,Hinjewadi,Instagram,6762,26,3,7,0,No reason provided
+358,10-10-2024 00:00,1104,6638,Sports,Outdoor,Supplier_C,Delhi,Rohini,Facebook,9329,39,2,5,0,No reason provided
+359,16-11-2024 00:00,1887,6178,Electronics,Mobiles,Supplier_B,Delhi,Karol Bagh,Facebook,17321,14,3,9,0,No reason provided
+360,15-08-2024 00:00,1349,5514,Sports,Outdoor,Supplier_C,Chennai,T. Nagar,Affiliate,508,3,2,5,0,No reason provided
+361,13-07-2024 00:00,1417,5239,Fashion,Women,Supplier_C,Pune,Hinjewadi,Google Ads,5902,10,3,2,0,No reason provided
+362,19-01-2024 00:00,1007,6092,Beauty,Hair,Supplier_B,Bangalore,Hebbal,Google Ads,3144,30,1,4,1,Not as described
+363,02-10-2024 00:00,1180,5690,Electronics,Laptops,Supplier_A,Mumbai,Bandra,Affiliate,11239,45,2,9,1,Wrong item
+364,03-04-2024 00:00,1187,5215,Home,Kitchen,Supplier_B,Hyderabad,Kukatpally,Instagram,3076,18,3,6,0,No reason provided
+365,21-06-2024 00:00,1799,6117,Fashion,Women,Supplier_A,Delhi,Saket,Instagram,18285,40,1,6,0,No reason provided
+366,15-04-2024 00:00,1819,5910,Home,Kitchen,Supplier_A,Mumbai,Bandra,Email,8698,22,1,9,1,Late delivery
+367,26-09-2024 00:00,1624,6932,Electronics,Laptops,Supplier_B,Mumbai,Andheri,Affiliate,16675,26,3,3,0,No reason provided
+368,03-11-2024 00:00,1497,6644,Beauty,Skin,Supplier_D,Mumbai,Bandra,Email,6880,12,3,8,0,No reason provided
+369,26-06-2024 00:00,1824,6712,Electronics,Accessories,Supplier_C,Delhi,Saket,Facebook,11408,20,1,9,0,No reason provided
+370,25-12-2024 00:00,1108,6115,Beauty,Makeup,Supplier_D,Bangalore,Whitefield,Affiliate,11373,12,2,9,0,No reason provided
+371,04-06-2024 00:00,1913,5235,Sports,Outdoor,Supplier_A,Delhi,Saket,Google Ads,18306,18,1,3,0,No reason provided
+372,06-12-2024 00:00,1800,5087,Electronics,Mobiles,Supplier_C,Mumbai,Bandra,Affiliate,6732,35,2,4,0,No reason provided
+373,26-11-2024 00:00,1181,5194,Beauty,Skin,Supplier_B,Bangalore,Whitefield,Affiliate,4342,40,1,2,1,Not as described
+374,03-11-2024 00:00,1492,5064,Fashion,Men,Supplier_A,Bangalore,Koramangala,Email,6675,39,1,4,1,Not as described
+375,24-06-2024 00:00,1150,5769,Beauty,Skin,Supplier_C,Chennai,T. Nagar,Affiliate,5213,29,3,7,0,No reason provided
+376,23-01-2024 00:00,1513,5929,Electronics,Accessories,Supplier_C,Delhi,Rohini,Google Ads,8344,24,3,9,1,Damaged
+377,13-11-2024 00:00,1249,5166,Beauty,Skin,Supplier_A,Pune,Kothrud,Google Ads,18522,1,3,4,0,No reason provided
+378,11-07-2024 00:00,1442,6447,Beauty,Hair,Supplier_C,Hyderabad,Banjara Hills,Google Ads,17543,49,3,8,1,Size issue
+379,24-12-2024 00:00,1652,6053,Beauty,Makeup,Supplier_A,Mumbai,Dadar,Email,18882,47,2,7,1,Not as described
+380,11-06-2024 00:00,1685,5950,Beauty,Skin,Supplier_B,Hyderabad,Banjara Hills,Facebook,18904,42,1,4,0,No reason provided
+381,27-05-2024 00:00,1114,5265,Electronics,Laptops,Supplier_B,Chennai,Tambaram,Email,8032,3,3,4,0,No reason provided
+382,14-04-2024 00:00,1943,5741,Sports,Outdoor,Supplier_B,Hyderabad,Banjara Hills,Google Ads,1537,24,3,2,0,No reason provided
+383,12-07-2024 00:00,1134,5345,Home,Decor,Supplier_A,Mumbai,Andheri,Google Ads,12230,20,1,2,0,No reason provided
+384,18-10-2024 00:00,1766,5857,Sports,Outdoor,Supplier_D,Mumbai,Bandra,Affiliate,19933,14,2,8,0,No reason provided
+385,13-10-2024 00:00,1390,5492,Electronics,Laptops,Supplier_D,Mumbai,Powai,Google Ads,17418,31,2,9,0,No reason provided
+386,09-09-2024 00:00,1999,5940,Fashion,Men,Supplier_C,Delhi,Rohini,Facebook,19557,20,1,8,0,No reason provided
+387,03-05-2024 00:00,1115,5303,Fashion,Women,Supplier_B,Mumbai,Bandra,Instagram,12111,31,2,8,0,No reason provided
+388,14-09-2024 00:00,1580,5059,Sports,Gear,Supplier_C,Pune,Hadapsar,Facebook,18839,47,2,6,0,No reason provided
+389,06-03-2024 00:00,1499,6005,Sports,Gear,Supplier_B,Bangalore,Indiranagar,Instagram,16869,14,1,2,0,No reason provided
+390,25-06-2024 00:00,1395,5725,Electronics,Accessories,Supplier_C,Hyderabad,Gachibowli,Email,4400,26,2,9,0,No reason provided
+391,27-12-2024 00:00,1190,6713,Sports,Outdoor,Supplier_D,Mumbai,Andheri,Facebook,17194,29,3,6,0,No reason provided
+392,18-05-2024 00:00,1500,6041,Electronics,Mobiles,Supplier_C,Delhi,Karol Bagh,Instagram,13585,28,3,8,1,Size issue
+393,07-10-2024 00:00,1010,6167,Beauty,Makeup,Supplier_D,Mumbai,Powai,Email,17159,38,3,1,0,No reason provided
+394,10-01-2024 00:00,1650,5263,Electronics,Laptops,Supplier_C,Pune,Hadapsar,Email,4066,43,3,4,0,No reason provided
+395,04-05-2024 00:00,1378,5355,Fashion,Kids,Supplier_A,Delhi,Karol Bagh,Facebook,10458,4,3,3,0,No reason provided
+396,04-04-2024 00:00,1935,6785,Sports,Gear,Supplier_A,Hyderabad,Banjara Hills,Google Ads,12028,48,3,3,1,Size issue
+397,14-12-2024 00:00,1860,6863,Fashion,Men,Supplier_D,Bangalore,Hebbal,Google Ads,5984,0,2,6,0,No reason provided
+398,19-09-2024 00:00,1847,5049,Home,Furniture,Supplier_A,Chennai,T. Nagar,Google Ads,8097,36,2,2,0,No reason provided
+399,22-10-2024 00:00,1861,6563,Fashion,Men,Supplier_A,Mumbai,Andheri,Facebook,9685,48,3,6,0,No reason provided
+400,29-08-2024 00:00,1988,5144,Electronics,Laptops,Supplier_A,Chennai,Tambaram,Instagram,6522,45,2,2,0,No reason provided
+401,01-05-2024 00:00,1311,5914,Electronics,Accessories,Supplier_A,Pune,Baner,Google Ads,6666,48,3,7,0,No reason provided
+402,16-04-2024 00:00,1578,5612,Sports,Outdoor,Supplier_A,Hyderabad,Madhapur,Google Ads,1192,8,3,7,1,Size issue
+403,29-07-2024 00:00,1244,5583,Beauty,Skin,Supplier_D,Pune,Hinjewadi,Google Ads,13690,21,3,1,0,No reason provided
+404,02-07-2024 00:00,1286,5070,Beauty,Hair,Supplier_A,Mumbai,Dadar,Google Ads,6292,6,2,9,1,Size issue
+405,21-08-2024 00:00,1690,5225,Electronics,Laptops,Supplier_B,Mumbai,Dadar,Email,5334,35,1,8,0,No reason provided
+406,01-09-2024 00:00,1384,5149,Fashion,Women,Supplier_B,Bangalore,Indiranagar,Facebook,11797,5,1,6,0,No reason provided
+407,23-02-2024 00:00,1896,5284,Fashion,Kids,Supplier_C,Mumbai,Dadar,Facebook,1232,22,3,5,0,No reason provided
+408,01-12-2024 00:00,1615,6447,Sports,Gear,Supplier_A,Chennai,Tambaram,Email,6325,14,3,8,1,Size issue
+409,28-02-2024 00:00,1929,6053,Home,Kitchen,Supplier_B,Chennai,T. Nagar,Email,1524,48,3,6,1,Not as described
+410,05-07-2024 00:00,1758,5265,Electronics,Laptops,Supplier_C,Hyderabad,Banjara Hills,Email,2408,42,2,8,0,No reason provided
+411,02-05-2024 00:00,1670,5949,Electronics,Accessories,Supplier_A,Pune,Hinjewadi,Google Ads,11433,4,3,7,0,No reason provided
+412,03-10-2024 00:00,1900,5699,Sports,Gym,Supplier_D,Hyderabad,Kukatpally,Email,14990,5,1,1,0,No reason provided
+413,21-10-2024 00:00,1593,5703,Fashion,Kids,Supplier_C,Bangalore,Whitefield,Affiliate,11232,19,3,8,0,No reason provided
+414,02-11-2024 00:00,1045,5082,Sports,Gear,Supplier_C,Hyderabad,Kukatpally,Email,8904,20,2,7,0,No reason provided
+415,19-08-2024 00:00,1711,6728,Beauty,Hair,Supplier_D,Pune,Hadapsar,Google Ads,19538,36,2,2,0,No reason provided
+416,10-06-2024 00:00,1992,6403,Sports,Gym,Supplier_A,Bangalore,Whitefield,Google Ads,14228,0,1,2,0,No reason provided
+417,10-11-2024 00:00,1488,6669,Electronics,Mobiles,Supplier_D,Mumbai,Powai,Instagram,13373,24,3,3,0,No reason provided
+418,05-12-2024 00:00,1169,5562,Electronics,Mobiles,Supplier_D,Mumbai,Andheri,Instagram,3738,16,1,3,0,No reason provided
+419,06-12-2024 00:00,1584,6526,Home,Furniture,Supplier_C,Hyderabad,Gachibowli,Instagram,15530,43,3,4,0,No reason provided
+420,08-03-2024 00:00,1168,5818,Beauty,Skin,Supplier_A,Bangalore,Indiranagar,Email,10385,40,1,4,0,No reason provided
+421,29-02-2024 00:00,1799,5799,Fashion,Women,Supplier_A,Mumbai,Powai,Google Ads,14009,36,3,3,0,No reason provided
+422,22-07-2024 00:00,1517,6359,Home,Kitchen,Supplier_A,Delhi,Rohini,Facebook,9904,38,3,9,0,No reason provided
+423,19-10-2024 00:00,1813,5366,Fashion,Women,Supplier_B,Bangalore,Hebbal,Facebook,10335,28,1,1,0,No reason provided
+424,22-04-2024 00:00,1733,6492,Electronics,Mobiles,Supplier_A,Delhi,Rohini,Facebook,15700,12,1,5,0,No reason provided
+425,12-01-2024 00:00,1310,6147,Electronics,Laptops,Supplier_D,Bangalore,Indiranagar,Email,5955,12,2,7,0,No reason provided
+426,24-12-2024 00:00,1867,6543,Beauty,Skin,Supplier_D,Pune,Hinjewadi,Email,3205,9,1,6,0,No reason provided
+427,04-08-2024 00:00,1672,6976,Sports,Outdoor,Supplier_A,Mumbai,Bandra,Email,8281,21,3,7,0,No reason provided
+428,18-07-2024 00:00,1375,5896,Sports,Gym,Supplier_A,Delhi,Saket,Google Ads,18448,3,3,9,0,No reason provided
+429,14-03-2024 00:00,1075,5497,Beauty,Hair,Supplier_D,Mumbai,Andheri,Affiliate,19177,40,3,3,0,No reason provided
+430,22-08-2024 00:00,1277,5354,Home,Decor,Supplier_B,Delhi,Karol Bagh,Instagram,13290,43,1,8,0,No reason provided
+431,07-07-2024 00:00,1978,6356,Electronics,Accessories,Supplier_B,Mumbai,Powai,Instagram,9151,16,3,3,0,No reason provided
+432,25-08-2024 00:00,1473,6562,Fashion,Men,Supplier_B,Mumbai,Andheri,Facebook,4162,40,2,7,0,No reason provided
+433,25-12-2024 00:00,1274,5917,Electronics,Mobiles,Supplier_D,Chennai,Velachery,Affiliate,8324,46,1,7,0,No reason provided
+434,01-06-2024 00:00,1221,6455,Home,Decor,Supplier_C,Bangalore,Hebbal,Facebook,4402,46,2,7,1,Late delivery
+435,10-09-2024 00:00,1199,5087,Electronics,Accessories,Supplier_D,Bangalore,Koramangala,Facebook,18631,16,3,6,0,No reason provided
+436,21-12-2024 00:00,1945,5546,Sports,Gym,Supplier_A,Hyderabad,Gachibowli,Facebook,11219,2,3,1,1,Size issue
+437,08-04-2024 00:00,1017,6781,Electronics,Mobiles,Supplier_A,Bangalore,Indiranagar,Affiliate,6868,18,2,8,0,No reason provided
+438,09-12-2024 00:00,1616,6896,Fashion,Women,Supplier_B,Mumbai,Bandra,Affiliate,7283,16,1,1,0,No reason provided
+439,05-04-2024 00:00,1327,5345,Beauty,Skin,Supplier_A,Chennai,Anna Nagar,Email,19142,21,3,4,0,No reason provided
+440,24-10-2024 00:00,1494,5571,Sports,Outdoor,Supplier_A,Delhi,Karol Bagh,Google Ads,11232,1,2,8,0,No reason provided
+441,16-02-2024 00:00,1224,6090,Sports,Outdoor,Supplier_A,Pune,Baner,Facebook,12837,6,3,5,0,No reason provided
+442,24-08-2024 00:00,1257,5816,Home,Kitchen,Supplier_A,Hyderabad,Kukatpally,Affiliate,15018,31,3,8,0,No reason provided
+443,30-09-2024 00:00,1261,5356,Fashion,Men,Supplier_C,Delhi,Rohini,Google Ads,5072,27,1,3,0,No reason provided
+444,24-11-2024 00:00,1107,6701,Beauty,Skin,Supplier_B,Mumbai,Andheri,Google Ads,260,23,3,3,0,No reason provided
+445,01-10-2024 00:00,1003,5046,Beauty,Hair,Supplier_A,Bangalore,Whitefield,Facebook,6526,8,3,1,0,No reason provided
+446,02-03-2024 00:00,1499,5422,Fashion,Kids,Supplier_A,Delhi,Rohini,Affiliate,8296,13,3,2,1,Size issue
+447,10-03-2024 00:00,1132,6154,Sports,Gym,Supplier_C,Chennai,T. Nagar,Google Ads,9551,38,2,5,0,No reason provided
+448,14-05-2024 00:00,1029,5617,Fashion,Women,Supplier_D,Mumbai,Powai,Instagram,8073,0,3,6,0,No reason provided
+449,28-06-2024 00:00,1303,5161,Electronics,Accessories,Supplier_C,Chennai,Velachery,Email,16418,49,3,5,1,Damaged
+450,11-11-2024 00:00,1195,6850,Home,Furniture,Supplier_C,Bangalore,Hebbal,Google Ads,3225,33,1,9,0,No reason provided
+451,06-02-2024 00:00,1936,5741,Sports,Outdoor,Supplier_D,Mumbai,Dadar,Instagram,18239,9,3,5,0,No reason provided
+452,06-02-2024 00:00,1838,5965,Home,Furniture,Supplier_B,Chennai,Anna Nagar,Facebook,6234,46,1,6,0,No reason provided
+453,24-12-2024 00:00,1830,5474,Sports,Gear,Supplier_B,Delhi,Saket,Email,4382,17,2,2,0,No reason provided
+454,26-01-2024 00:00,1886,5564,Beauty,Hair,Supplier_D,Mumbai,Bandra,Google Ads,1607,31,3,2,0,No reason provided
+455,11-01-2024 00:00,1864,5505,Home,Decor,Supplier_A,Chennai,Anna Nagar,Google Ads,1479,13,1,7,0,No reason provided
+456,29-09-2024 00:00,1734,5829,Fashion,Kids,Supplier_A,Pune,Hinjewadi,Google Ads,11904,22,3,5,0,No reason provided
+457,05-08-2024 00:00,1472,5402,Beauty,Skin,Supplier_B,Hyderabad,Gachibowli,Affiliate,4204,37,1,7,0,No reason provided
+458,08-11-2024 00:00,1885,6093,Home,Kitchen,Supplier_C,Pune,Hinjewadi,Instagram,1881,26,3,1,0,No reason provided
+459,16-06-2024 00:00,1884,5942,Fashion,Men,Supplier_D,Pune,Baner,Google Ads,10158,31,3,2,0,No reason provided
+460,31-10-2024 00:00,1497,6735,Beauty,Makeup,Supplier_C,Pune,Kothrud,Affiliate,15831,19,2,6,0,No reason provided
+461,06-02-2024 00:00,1468,6863,Home,Furniture,Supplier_D,Delhi,Dwarka,Email,13386,27,3,5,0,No reason provided
+462,27-08-2024 00:00,1775,5887,Home,Kitchen,Supplier_A,Pune,Hinjewadi,Affiliate,14237,39,2,4,0,No reason provided
+463,25-09-2024 00:00,1202,6306,Electronics,Accessories,Supplier_D,Hyderabad,Madhapur,Google Ads,4805,18,3,7,0,No reason provided
+464,30-11-2024 00:00,1413,6104,Fashion,Men,Supplier_D,Mumbai,Powai,Email,13081,31,3,1,0,No reason provided
+465,26-12-2024 00:00,1980,5932,Home,Kitchen,Supplier_B,Delhi,Karol Bagh,Instagram,14435,40,2,1,0,No reason provided
+466,16-03-2024 00:00,1850,6859,Sports,Gear,Supplier_D,Hyderabad,Madhapur,Facebook,11599,6,1,8,0,No reason provided
+467,09-10-2024 00:00,1458,5970,Home,Decor,Supplier_B,Chennai,T. Nagar,Email,12515,29,1,3,0,No reason provided
+468,22-05-2024 00:00,1651,5090,Home,Kitchen,Supplier_D,Pune,Kothrud,Google Ads,10731,30,3,8,0,No reason provided
+469,13-11-2024 00:00,1080,6520,Electronics,Laptops,Supplier_D,Hyderabad,Banjara Hills,Email,9035,34,3,9,0,No reason provided
+470,21-08-2024 00:00,1041,6422,Home,Decor,Supplier_A,Hyderabad,Gachibowli,Instagram,19301,10,3,7,0,No reason provided
+471,22-11-2024 00:00,1258,5338,Beauty,Skin,Supplier_B,Hyderabad,Gachibowli,Facebook,13366,14,1,3,1,Wrong item
+472,08-01-2024 00:00,1134,6023,Home,Furniture,Supplier_D,Bangalore,Koramangala,Google Ads,6735,45,1,2,0,No reason provided
+473,12-01-2024 00:00,1414,5946,Beauty,Skin,Supplier_A,Pune,Hinjewadi,Facebook,17548,17,3,7,1,Late delivery
+474,02-08-2024 00:00,1535,6568,Electronics,Laptops,Supplier_D,Mumbai,Dadar,Google Ads,4855,29,3,2,0,No reason provided
+475,13-10-2024 00:00,1063,6982,Electronics,Accessories,Supplier_D,Chennai,T. Nagar,Instagram,6079,38,1,1,1,Late delivery
+476,24-12-2024 00:00,1760,5986,Sports,Gear,Supplier_D,Delhi,Dwarka,Email,4688,4,1,6,0,No reason provided
+477,18-05-2024 00:00,1313,6054,Home,Decor,Supplier_C,Mumbai,Andheri,Email,4533,42,1,3,1,Not as described
+478,07-09-2024 00:00,1345,5960,Sports,Gym,Supplier_A,Chennai,Tambaram,Instagram,4671,14,2,8,0,No reason provided
+479,05-10-2024 00:00,1474,6884,Home,Decor,Supplier_B,Bangalore,Hebbal,Email,18246,40,1,9,1,Damaged
+480,21-08-2024 00:00,1524,6514,Beauty,Makeup,Supplier_B,Delhi,Saket,Instagram,14479,45,3,3,0,No reason provided
+481,02-06-2024 00:00,1365,5178,Beauty,Hair,Supplier_B,Chennai,Anna Nagar,Email,5067,43,1,9,0,No reason provided
+482,03-05-2024 00:00,1513,5829,Beauty,Hair,Supplier_D,Mumbai,Powai,Instagram,6776,41,2,1,0,No reason provided
+483,24-06-2024 00:00,1399,5781,Sports,Gym,Supplier_C,Hyderabad,Madhapur,Google Ads,14998,23,1,4,1,Size issue
+484,13-12-2024 00:00,1669,5852,Beauty,Makeup,Supplier_B,Pune,Hadapsar,Instagram,13550,30,1,9,0,No reason provided
+485,13-10-2024 00:00,1231,5707,Electronics,Laptops,Supplier_B,Mumbai,Andheri,Google Ads,11027,43,3,4,1,Late delivery
+486,05-03-2024 00:00,1541,6944,Home,Furniture,Supplier_B,Mumbai,Powai,Email,3927,36,3,4,0,No reason provided
+487,05-09-2024 00:00,1834,5500,Sports,Gym,Supplier_C,Mumbai,Andheri,Google Ads,11304,16,2,9,1,Size issue
+488,25-05-2024 00:00,1952,5327,Sports,Gear,Supplier_D,Delhi,Karol Bagh,Facebook,11527,18,1,9,0,No reason provided
+489,19-01-2024 00:00,1890,5453,Beauty,Hair,Supplier_B,Bangalore,Hebbal,Facebook,4319,4,2,4,0,No reason provided
+490,29-08-2024 00:00,1448,5269,Sports,Gym,Supplier_B,Bangalore,Koramangala,Facebook,8306,38,1,1,0,No reason provided
+491,29-08-2024 00:00,1287,6359,Fashion,Men,Supplier_B,Delhi,Karol Bagh,Email,15130,20,1,4,0,No reason provided
+492,04-08-2024 00:00,1726,5987,Home,Decor,Supplier_C,Chennai,T. Nagar,Instagram,4601,25,1,5,0,No reason provided
+493,31-08-2024 00:00,1472,5196,Home,Decor,Supplier_A,Pune,Baner,Facebook,11558,29,1,5,0,No reason provided
+494,28-12-2024 00:00,1572,6171,Beauty,Skin,Supplier_A,Pune,Hinjewadi,Affiliate,6497,33,3,9,0,No reason provided
+495,29-07-2024 00:00,1427,5127,Fashion,Men,Supplier_D,Bangalore,Indiranagar,Email,16871,0,2,5,1,Not as described
+496,06-01-2024 00:00,1578,5860,Sports,Gym,Supplier_D,Hyderabad,Madhapur,Instagram,12428,12,2,9,0,No reason provided
+497,30-03-2024 00:00,1091,5533,Home,Kitchen,Supplier_A,Hyderabad,Banjara Hills,Facebook,13777,45,1,5,0,No reason provided
+498,30-04-2024 00:00,1211,5834,Fashion,Women,Supplier_D,Mumbai,Andheri,Google Ads,10945,33,2,9,1,Late delivery
+499,28-04-2024 00:00,1976,6771,Sports,Gear,Supplier_D,Hyderabad,Gachibowli,Instagram,4021,22,3,2,0,No reason provided
+500,15-10-2024 00:00,1471,6381,Beauty,Makeup,Supplier_B,Chennai,Anna Nagar,Affiliate,1761,4,3,4,1,Not as described
+501,21-02-2024 00:00,1830,5555,Sports,Outdoor,Supplier_A,Chennai,Tambaram,Instagram,19268,29,1,4,0,No reason provided
+502,14-03-2024 00:00,1062,5373,Beauty,Skin,Supplier_B,Mumbai,Andheri,Affiliate,6072,39,1,8,0,No reason provided
+503,03-09-2024 00:00,1280,5727,Home,Decor,Supplier_D,Delhi,Rohini,Affiliate,4171,0,1,6,0,No reason provided
+504,29-06-2024 00:00,1151,5842,Fashion,Men,Supplier_C,Mumbai,Bandra,Google Ads,8408,29,1,1,0,No reason provided
+505,05-07-2024 00:00,1558,6218,Sports,Gym,Supplier_C,Mumbai,Bandra,Email,9024,38,1,7,0,No reason provided
+506,17-12-2024 00:00,1800,6100,Fashion,Women,Supplier_D,Pune,Baner,Google Ads,2695,30,3,3,0,No reason provided
+507,10-06-2024 00:00,1062,6895,Electronics,Mobiles,Supplier_C,Delhi,Dwarka,Affiliate,16362,19,2,2,1,Size issue
+508,28-02-2024 00:00,1980,6752,Electronics,Accessories,Supplier_A,Bangalore,Whitefield,Google Ads,19769,42,2,9,0,No reason provided
+509,28-12-2024 00:00,1317,5427,Home,Furniture,Supplier_A,Hyderabad,Madhapur,Affiliate,480,23,2,2,0,No reason provided
+510,14-09-2024 00:00,1320,5308,Sports,Gear,Supplier_B,Delhi,Karol Bagh,Instagram,14036,22,3,5,0,No reason provided
+511,30-06-2024 00:00,1386,6539,Electronics,Laptops,Supplier_D,Bangalore,Indiranagar,Google Ads,11041,19,2,9,0,No reason provided
+512,23-06-2024 00:00,1482,6251,Beauty,Hair,Supplier_C,Hyderabad,Kukatpally,Email,16959,43,1,7,0,No reason provided
+513,07-12-2024 00:00,1544,5698,Fashion,Women,Supplier_B,Bangalore,Indiranagar,Google Ads,869,48,1,4,0,No reason provided
+514,25-11-2024 00:00,1036,6441,Electronics,Laptops,Supplier_C,Hyderabad,Banjara Hills,Google Ads,3453,6,1,3,0,No reason provided
+515,21-03-2024 00:00,1931,5329,Electronics,Accessories,Supplier_D,Delhi,Saket,Email,6219,40,1,7,0,No reason provided
+516,29-11-2024 00:00,1501,6089,Fashion,Men,Supplier_A,Pune,Hinjewadi,Instagram,6782,39,1,8,0,No reason provided
+517,10-10-2024 00:00,1923,5130,Home,Decor,Supplier_B,Delhi,Dwarka,Affiliate,1706,27,1,5,0,No reason provided
+518,03-07-2024 00:00,1105,5052,Home,Decor,Supplier_C,Chennai,T. Nagar,Email,14068,24,2,8,0,No reason provided
+519,11-12-2024 00:00,1772,5215,Electronics,Accessories,Supplier_A,Mumbai,Andheri,Email,12284,2,1,7,0,No reason provided
+520,23-10-2024 00:00,1157,6609,Sports,Outdoor,Supplier_A,Pune,Baner,Instagram,18828,8,1,4,1,Late delivery
+521,09-10-2024 00:00,1520,6395,Home,Decor,Supplier_D,Delhi,Saket,Google Ads,13107,27,1,6,0,No reason provided
+522,21-06-2024 00:00,1503,6138,Electronics,Mobiles,Supplier_A,Hyderabad,Madhapur,Google Ads,15005,46,2,8,1,Damaged
+523,18-08-2024 00:00,1402,5948,Electronics,Accessories,Supplier_C,Pune,Hinjewadi,Affiliate,3584,4,2,6,0,No reason provided
+524,23-01-2024 00:00,1178,6440,Sports,Outdoor,Supplier_A,Mumbai,Powai,Google Ads,16834,38,2,1,1,Not as described
+525,15-11-2024 00:00,1308,6323,Electronics,Accessories,Supplier_D,Bangalore,Whitefield,Email,13556,36,3,3,0,No reason provided
+526,13-05-2024 00:00,1767,6779,Fashion,Kids,Supplier_A,Hyderabad,Gachibowli,Instagram,9604,25,1,8,0,No reason provided
+527,14-06-2024 00:00,1213,6848,Home,Kitchen,Supplier_D,Pune,Baner,Email,18567,39,3,5,0,No reason provided
+528,21-01-2024 00:00,1619,6606,Fashion,Men,Supplier_C,Bangalore,Koramangala,Email,12847,7,2,2,1,Size issue
+529,04-04-2024 00:00,1087,6218,Beauty,Hair,Supplier_B,Delhi,Saket,Google Ads,17975,36,3,1,1,Late delivery
+530,28-12-2024 00:00,1108,6072,Fashion,Kids,Supplier_C,Pune,Baner,Google Ads,19411,16,2,8,1,Not as described
+531,14-06-2024 00:00,1233,6344,Electronics,Mobiles,Supplier_A,Delhi,Rohini,Google Ads,14173,16,1,5,0,No reason provided
+532,25-04-2024 00:00,1601,6900,Fashion,Women,Supplier_A,Pune,Baner,Email,5483,38,3,2,0,No reason provided
+533,18-01-2024 00:00,1526,6937,Fashion,Women,Supplier_C,Delhi,Rohini,Facebook,7931,46,1,3,1,Late delivery
+534,15-01-2024 00:00,1943,6657,Electronics,Mobiles,Supplier_D,Mumbai,Dadar,Instagram,10211,35,2,3,0,No reason provided
+535,10-10-2024 00:00,1305,5331,Beauty,Skin,Supplier_D,Pune,Kothrud,Instagram,16834,17,1,9,0,No reason provided
+536,15-06-2024 00:00,1120,6908,Beauty,Skin,Supplier_D,Delhi,Dwarka,Google Ads,682,20,1,5,0,No reason provided
+537,13-04-2024 00:00,1453,5492,Fashion,Women,Supplier_D,Pune,Hadapsar,Affiliate,19317,46,1,6,0,No reason provided
+538,08-10-2024 00:00,1772,5550,Fashion,Men,Supplier_A,Chennai,Anna Nagar,Affiliate,2395,34,1,4,0,No reason provided
+539,16-02-2024 00:00,1102,5901,Home,Furniture,Supplier_B,Bangalore,Hebbal,Affiliate,3780,47,3,2,1,Late delivery
+540,24-02-2024 00:00,1408,5292,Sports,Outdoor,Supplier_B,Chennai,Tambaram,Google Ads,10060,26,2,6,0,No reason provided
+541,12-09-2024 00:00,1983,5304,Home,Decor,Supplier_A,Bangalore,Koramangala,Instagram,8870,45,2,8,0,No reason provided
+542,07-03-2024 00:00,1386,6677,Electronics,Accessories,Supplier_A,Chennai,Tambaram,Email,518,5,3,6,0,No reason provided
+543,25-11-2024 00:00,1808,5530,Home,Kitchen,Supplier_D,Mumbai,Powai,Facebook,12955,40,2,9,0,No reason provided
+544,01-01-2024 00:00,1349,5579,Sports,Outdoor,Supplier_C,Pune,Kothrud,Facebook,13044,41,1,8,0,No reason provided
+545,04-08-2024 00:00,1318,5550,Home,Furniture,Supplier_C,Bangalore,Hebbal,Google Ads,8226,29,1,9,1,Damaged
+546,04-11-2024 00:00,1887,6235,Beauty,Hair,Supplier_C,Mumbai,Andheri,Affiliate,4426,19,3,4,0,No reason provided
+547,11-08-2024 00:00,1773,6019,Beauty,Hair,Supplier_D,Bangalore,Indiranagar,Facebook,17320,39,2,9,0,No reason provided
+548,07-07-2024 00:00,1677,6379,Beauty,Makeup,Supplier_D,Hyderabad,Madhapur,Instagram,7230,46,1,1,0,No reason provided
+549,25-11-2024 00:00,1187,6373,Electronics,Laptops,Supplier_D,Chennai,Anna Nagar,Facebook,3591,5,1,9,1,Wrong item
+550,25-03-2024 00:00,1852,6555,Fashion,Kids,Supplier_A,Hyderabad,Kukatpally,Affiliate,4992,31,2,6,0,No reason provided
+551,22-06-2024 00:00,1431,6754,Beauty,Skin,Supplier_C,Delhi,Karol Bagh,Affiliate,401,26,3,6,0,No reason provided
+552,30-05-2024 00:00,1034,5670,Electronics,Accessories,Supplier_D,Chennai,Velachery,Facebook,4100,39,1,3,0,No reason provided
+553,02-06-2024 00:00,1821,5897,Sports,Gym,Supplier_C,Bangalore,Koramangala,Facebook,8379,7,1,3,0,No reason provided
+554,18-02-2024 00:00,1706,6333,Electronics,Laptops,Supplier_C,Chennai,Anna Nagar,Affiliate,10637,39,3,3,0,No reason provided
+555,10-03-2024 00:00,1556,6099,Sports,Gym,Supplier_B,Mumbai,Bandra,Email,7718,35,1,2,0,No reason provided
+556,24-04-2024 00:00,1789,6288,Sports,Gym,Supplier_B,Hyderabad,Kukatpally,Google Ads,15664,9,2,2,0,No reason provided
+557,03-05-2024 00:00,1017,5700,Fashion,Men,Supplier_D,Chennai,Tambaram,Google Ads,8082,49,1,8,0,No reason provided
+558,26-04-2024 00:00,1577,6962,Fashion,Men,Supplier_C,Chennai,Velachery,Facebook,11567,29,1,8,1,Wrong item
+559,04-08-2024 00:00,1071,6516,Sports,Gym,Supplier_D,Chennai,Tambaram,Facebook,13419,44,3,1,0,No reason provided
+560,10-11-2024 00:00,1277,6604,Home,Decor,Supplier_C,Mumbai,Bandra,Google Ads,3178,0,1,4,0,No reason provided
+561,28-05-2024 00:00,1522,6089,Home,Furniture,Supplier_A,Chennai,Tambaram,Instagram,12995,1,3,9,0,No reason provided
+562,16-09-2024 00:00,1334,5721,Sports,Gear,Supplier_C,Bangalore,Whitefield,Affiliate,14114,29,3,8,0,No reason provided
+563,24-03-2024 00:00,1049,6451,Home,Furniture,Supplier_D,Chennai,Tambaram,Google Ads,3558,28,2,5,0,No reason provided
+564,28-11-2024 00:00,1958,6471,Home,Furniture,Supplier_B,Hyderabad,Banjara Hills,Instagram,8277,16,2,6,0,No reason provided
+565,15-10-2024 00:00,1267,6910,Home,Decor,Supplier_B,Delhi,Rohini,Email,5993,8,2,8,1,Late delivery
+566,19-09-2024 00:00,1691,5682,Electronics,Laptops,Supplier_A,Mumbai,Dadar,Instagram,16585,28,2,9,0,No reason provided
+567,06-06-2024 00:00,1045,6972,Electronics,Accessories,Supplier_C,Chennai,T. Nagar,Google Ads,2947,25,3,1,0,No reason provided
+568,25-07-2024 00:00,1879,6042,Home,Decor,Supplier_A,Mumbai,Andheri,Google Ads,18665,43,2,2,0,No reason provided
+569,21-10-2024 00:00,1832,5212,Fashion,Women,Supplier_C,Bangalore,Hebbal,Email,10825,41,3,8,0,No reason provided
+570,10-02-2024 00:00,1460,5948,Fashion,Men,Supplier_B,Delhi,Rohini,Instagram,10453,9,3,4,0,No reason provided
+571,18-06-2024 00:00,1688,5498,Electronics,Accessories,Supplier_C,Bangalore,Koramangala,Facebook,5394,36,3,6,0,No reason provided
+572,11-09-2024 00:00,1229,6251,Home,Furniture,Supplier_A,Bangalore,Koramangala,Google Ads,12487,6,3,1,0,No reason provided
+573,10-10-2024 00:00,1182,6485,Home,Kitchen,Supplier_A,Chennai,Anna Nagar,Affiliate,9547,49,2,3,0,No reason provided
+574,17-04-2024 00:00,1572,5449,Home,Furniture,Supplier_B,Delhi,Dwarka,Facebook,11857,43,2,1,0,No reason provided
+575,22-07-2024 00:00,1544,5287,Sports,Gear,Supplier_A,Delhi,Saket,Email,17633,14,3,5,0,No reason provided
+576,31-07-2024 00:00,1166,5574,Fashion,Men,Supplier_D,Hyderabad,Gachibowli,Instagram,1131,23,3,8,0,No reason provided
+577,05-01-2024 00:00,1900,5948,Home,Decor,Supplier_A,Bangalore,Whitefield,Email,9401,15,1,4,0,No reason provided
+578,16-09-2024 00:00,1260,5648,Sports,Outdoor,Supplier_C,Mumbai,Dadar,Email,3192,18,3,8,0,No reason provided
+579,12-12-2024 00:00,1276,5856,Beauty,Makeup,Supplier_A,Chennai,Velachery,Email,6464,40,3,1,0,No reason provided
+580,16-09-2024 00:00,1051,6426,Sports,Gym,Supplier_C,Delhi,Rohini,Email,7959,41,2,4,0,No reason provided
+581,09-07-2024 00:00,1268,6155,Home,Decor,Supplier_A,Pune,Hinjewadi,Affiliate,15060,40,1,2,0,No reason provided
+582,02-03-2024 00:00,1569,5930,Home,Decor,Supplier_A,Bangalore,Koramangala,Affiliate,11765,19,3,6,0,No reason provided
+583,07-11-2024 00:00,1274,6228,Sports,Gear,Supplier_A,Bangalore,Hebbal,Affiliate,4018,22,1,7,0,No reason provided
+584,01-03-2024 00:00,1794,5261,Home,Furniture,Supplier_C,Pune,Baner,Affiliate,18777,48,2,9,0,No reason provided
+585,13-10-2024 00:00,1832,5710,Fashion,Kids,Supplier_A,Mumbai,Andheri,Affiliate,13932,36,3,3,0,No reason provided
+586,17-01-2024 00:00,1689,6047,Home,Furniture,Supplier_C,Hyderabad,Madhapur,Affiliate,10385,10,1,6,0,No reason provided
+587,05-04-2024 00:00,1386,5659,Home,Decor,Supplier_A,Mumbai,Powai,Affiliate,12235,13,2,7,1,Late delivery
+588,11-05-2024 00:00,1880,5731,Sports,Gym,Supplier_D,Pune,Hinjewadi,Affiliate,5108,26,1,8,0,No reason provided
+589,07-09-2024 00:00,1161,6815,Electronics,Accessories,Supplier_A,Pune,Hadapsar,Affiliate,19044,20,3,1,0,No reason provided
+590,16-11-2024 00:00,1321,5992,Sports,Gear,Supplier_A,Bangalore,Whitefield,Email,14718,18,3,3,1,Damaged
+591,10-07-2024 00:00,1535,6764,Electronics,Laptops,Supplier_D,Mumbai,Bandra,Google Ads,8348,33,2,9,0,No reason provided
+592,08-12-2024 00:00,1275,5389,Beauty,Skin,Supplier_C,Delhi,Saket,Affiliate,9526,7,3,1,0,No reason provided
+593,11-08-2024 00:00,1920,5689,Sports,Gym,Supplier_B,Hyderabad,Kukatpally,Email,12333,37,2,7,0,No reason provided
+594,12-03-2024 00:00,1982,5459,Sports,Gear,Supplier_D,Delhi,Saket,Google Ads,6478,31,3,8,0,No reason provided
+595,16-08-2024 00:00,1328,6419,Home,Kitchen,Supplier_B,Delhi,Dwarka,Instagram,4268,13,1,6,1,Wrong item
+596,29-01-2024 00:00,1759,6008,Electronics,Mobiles,Supplier_B,Hyderabad,Gachibowli,Instagram,14889,11,2,3,0,No reason provided
+597,03-06-2024 00:00,1175,5659,Electronics,Laptops,Supplier_C,Mumbai,Dadar,Instagram,5674,17,3,1,0,No reason provided
+598,30-07-2024 00:00,1702,6879,Fashion,Kids,Supplier_B,Delhi,Karol Bagh,Facebook,225,43,3,9,0,No reason provided
+599,25-04-2024 00:00,1987,6573,Electronics,Mobiles,Supplier_B,Pune,Hinjewadi,Affiliate,4336,19,2,6,1,Damaged
+600,13-07-2024 00:00,1654,5078,Fashion,Women,Supplier_C,Bangalore,Indiranagar,Affiliate,15890,34,2,2,0,No reason provided
