@@ -21,6 +21,16 @@ Identify why customers return products and analyze how return rates vary by prod
 4. Identified high-risk products and exported them as CSV
 5. Created an interactive Power BI dashboard with drill-through filters
 
+ ## Note on Jupyter Notebook Rendering
+
+Some interactive HTML outputs in the Jupyter Notebook may not render correctly on GitHub.  
+To view the complete outputs and visualizations:
+- Open the notebook in Jupyter Notebook / JupyterLab and rerun all cells, or
+- Use nbviewer.org by pasting the GitHub notebook link.
+
+This does not affect the correctness of the analysis or results.
+
+
 ## Deliverables
 
 * Interactive Power BI dashboard
